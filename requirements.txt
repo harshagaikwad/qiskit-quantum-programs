@@ -1,0 +1,7 @@
+qiskit>=2.0.0
+qiskit-aer>=0.17.0
+matplotlib>=3.7.0
+pylatexenc>=2.10
+numpy>=1.24.0
+jupyter>=1.0.0
+notebook>=7.0.0
