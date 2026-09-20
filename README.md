@@ -64,7 +64,7 @@ python3 scripts/02_first_quantum_circuit.py
 3. **Histogram** — the *actual* results from running the circuit many
    times ("shots") on IBM's Aer simulator, which should closely match
    the statevector probabilities above
-
+ 
 Comparing 2 and 3 is a great way to build intuition for how quantum
 measurement works.
 
