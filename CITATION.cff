@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "Quantum Computing with Qiskit"
+type: software
+authors:
+  - family-names: Gaikwad
+    given-names: Harsha
+repository-code: "https://github.com/harshagaikwad/qiskit-quantum-programs"
+license: MIT
+version: 1.0.0
+date-released: 2026-09-20
+keywords:
+  - quantum computing
+  - Qiskit
+  - quantum algorithms
+  - quantum education
